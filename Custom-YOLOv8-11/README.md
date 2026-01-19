@@ -2,7 +2,7 @@
 
 Custom YOLO11n model trained specifically for license plate detection in video surveillance applications.
 
-Finetuned model MikeLud initial model. Dataset was finetuned on primarely night time USA photos.
+## Finetuned model MikeLud initial model. Dataset was finetuned on primarely night time USA photos. ##
 
 ## Model Information
 
